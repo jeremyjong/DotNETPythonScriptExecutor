@@ -1,0 +1,10 @@
+C:\Users\Jeremy\source\repos\PythonExecuter\PythonExecuter\bin\Debug\PythonExecuter.exe.config
+C:\Users\Jeremy\source\repos\PythonExecuter\PythonExecuter\bin\Debug\PythonExecuter.exe
+C:\Users\Jeremy\source\repos\PythonExecuter\PythonExecuter\bin\Debug\PythonExecuter.pdb
+C:\Users\Jeremy\source\repos\PythonExecuter\PythonExecuter\obj\Debug\PythonExecuter.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\PythonExecuter\PythonExecuter\obj\Debug\PythonExecuter.Form1.resources
+C:\Users\Jeremy\source\repos\PythonExecuter\PythonExecuter\obj\Debug\PythonExecuter.Properties.Resources.resources
+C:\Users\Jeremy\source\repos\PythonExecuter\PythonExecuter\obj\Debug\PythonExecuter.csproj.GenerateResource.cache
+C:\Users\Jeremy\source\repos\PythonExecuter\PythonExecuter\obj\Debug\PythonExecuter.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\PythonExecuter\PythonExecuter\obj\Debug\PythonExecuter.exe
+C:\Users\Jeremy\source\repos\PythonExecuter\PythonExecuter\obj\Debug\PythonExecuter.pdb
